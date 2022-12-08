@@ -1,0 +1,5 @@
+project(MYTINYSTL_ZZZ)
+cmake_minimum_required(VERSION 3.24)
+include_directories(${PROJECT_SOURCE_DIR}/include)
+aux_source_directory(src srcs)
+add_executable(${PROJECT_NAME} ${srcs})

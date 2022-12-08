@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Study/code/c++/mytinystl-zzz/build",
+  "command": "E:\\Software\\8.1.0\\mingw64\\bin\\g++.exe  @CMakeFiles/MYTINYSTL_ZZZ.dir/includes_CXX.rsp -g -o CMakeFiles\\MYTINYSTL_ZZZ.dir\\src\\test.cpp.obj -c E:\\Study\\code\\c++\\mytinystl-zzz\\src\\test.cpp",
+  "file": "E:/Study/code/c++/mytinystl-zzz/src/test.cpp"
+}
+]
